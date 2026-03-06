@@ -1,0 +1,16 @@
+patient_id,age,bp,cholesterol,heart_rate,outcome
+1,65,150,230,95,Survived
+2,40,130,180,80,Survived
+3,55,145,210,100,Died
+4,35,120,170,75,Survived
+5,70,160,240,105,Died
+6,60,155,220,98,Died
+7,45,135,190,85,Survived
+8,50,142,200,90,Survived
+9,62,150,215,96,Died
+10,38,125,175,82,Survived
+11,72,170,250,110,Died
+12,58,148,205,92,Survived
+13,67,160,230,104,Died
+14,42,128,185,84,Survived
+15,53,143,210,95,Survived
